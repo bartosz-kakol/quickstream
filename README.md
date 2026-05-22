@@ -1,0 +1,2 @@
+> [!WARNING]
+> **This version of the app is deprecated.** The `legacy` branch contains the source code for the *QuickStream* app that was hosted on [quickstream.fly.dev](https://quickstream.fly.dev) before it was rewritten and rebranded as *StreamLine*.
